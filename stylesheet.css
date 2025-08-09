@@ -5,13 +5,13 @@ body {
     margin: 0;
     padding: 1em 0;
     background-color: #FCEBD2; 
-    color: #BDBDBD; 
+    color: #1F1E1E; 
 }
 
 /* Header Styling */
 header {
     background-color: #fff;
-    color: #BDBDBD;
+    color: #1F1E1E;
     padding:  1em 0; 
     text-align: center;
     margin-bottom: 15px; 
@@ -49,8 +49,8 @@ header h1 {
     line-height: 1.8;
     text-align: justify;
     padding: 10px;
-    background-color: #e9f5ff; 
-    border-left: 5px solid #4145D1; 
+    background-color: #FFFCE5; 
+    border-left: 5px solid #FFFCE5; 
     
 }
 
