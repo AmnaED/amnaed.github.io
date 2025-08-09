@@ -1,0 +1,99 @@
+/* General Body Styling */
+body {
+    font-family: Georgia, sans-serif; 
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #FCEBD2; 
+    color: #BDBDBD; 
+}
+
+/* Header Styling */
+header {
+    background-color: #fff;
+    color: #BDBDBD;
+    padding: 1; 
+    text-align: center;
+    margin-bottom: 15px; 
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5m;
+}
+
+/* Section Container Styling (Class) */
+.section-container {
+    background-color: #FFD7B8;
+    margin: 20px auto; 
+    padding: 20px; 
+    border-radius: 8px; 
+    max-width: 800px;
+    box-sizing: border-box; 
+}
+
+/* Section Title Styling (Class) */
+.section-title {
+    color: #C2C2C2; 
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #C2C2C2; 
+    padding-bottom: 10px;
+  
+}
+
+/* Introduction Paragraph Styling (ID) */
+#introduction {
+    font-size: 1.1em;
+    line-height: 1.8;
+    text-align: justify;
+    padding: 10px;
+    background-color: #e9f5ff; 
+    border-left: 5px solid #4145D1; 
+    
+}
+
+/* List Styling */
+ul {
+    list-style-type: disc; 
+    margin-left: 20px;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Image Styling */
+.profile-image {
+    max-width: "500"; 
+    height: "600"; 
+    display: block; 
+    margin: 20px auto; 
+    border-radius: 5px; 
+    
+}
+
+/* Link Styling (<a> tag) */
+a {
+    color: #4145D1; 
+    text-decoration: none; 
+ 
+}
+
+a:hover {
+    color: #4145D1; 
+    text-decoration: underline; 
+    
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1;
+    margin-top: 30px;
+    font-size: 0.7;
+}
