@@ -3,7 +3,7 @@ body {
     font-family: Georgia, sans-serif; 
     line-height: 1.5;
     margin: 0;
-    padding: 0;
+    padding: 1em 0;
     background-color: #FCEBD2; 
     color: #BDBDBD; 
 }
@@ -12,14 +12,14 @@ body {
 header {
     background-color: #fff;
     color: #BDBDBD;
-    padding: 1; 
+    padding:  1em 0; 
     text-align: center;
     margin-bottom: 15px; 
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.5m;
+    font-size: 2.5em;
 }
 
 /* Section Container Styling (Class) */
@@ -58,7 +58,7 @@ header h1 {
 ul {
     list-style-type: disc; 
     margin-left: 20px;
-    padding: 0;
+    padding: 1em 0;
 }
 
 li {
@@ -67,8 +67,8 @@ li {
 
 /* Image Styling */
 .profile-image {
-    max-width: "500"; 
-    height: "600"; 
+    max-width: 100%; 
+    height: "auto"; 
     display: block; 
     margin: 20px auto; 
     border-radius: 5px; 
@@ -93,7 +93,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1;
+    padding: 1em 0;
     margin-top: 30px;
-    font-size: 0.7;
+    font-size: 0.7em;
 }
