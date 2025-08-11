@@ -73,6 +73,11 @@ li {
     border-radius: 5px; 
     
 }
+/* Paragraph styling */ 
+p {
+    text-align: center;
+    font-size: 1em;
+}
 
 /* Link Styling (<a> tag) */
 a {
